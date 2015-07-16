@@ -1,3 +1,5 @@
+#deprecating the ubuntu base image in favor of alpine.  Much smaller base image.
+
 # docker-nginx-demo
 Demo containers to show off frameworks that display container ID and the version (1 or 2)
 
